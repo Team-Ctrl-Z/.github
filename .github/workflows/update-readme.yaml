@@ -20,7 +20,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "## 🔄 최근 PR 확인하기" > recent-prs.md
+          echo "## 🔄 최근 PR 목록" > recent-prs.md
           N=8
           REPO="Team-Ctrl-Z/Hello-Computer"
 
