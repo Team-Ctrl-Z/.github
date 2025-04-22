@@ -24,7 +24,8 @@ jobs:
           N=8
           REPO="Team-Ctrl-Z/Hello-Computer"
 
-          curl -s -H "Authorization: token $GH_TOKEN" "https://api.github.com/repos/$REPO/pulls?state=closed&sort=updated&direction=desc&per_page=$N" | \
+          curl -s -H "Authorization: token $GH_TOKEN" \
+          "https://api.github.com/repos/$REPO/pulls?state=closed&sort=updated&direction=desc&per_page=$N" | \
           jq -r '.[] | select(.merged_at != null) |
             "- ✍️ [\(.title)](\(.html_url)) - by [@\(.user.login)](\(.user.html_url))"' >> recent-prs.md
 
