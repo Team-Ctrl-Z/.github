@@ -2,7 +2,7 @@ name: 최근 pr 전체 readme에서 보여주기
 
 on:
   schedule:
-    - cron: "0 0 0/1 1/1 * ? *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
