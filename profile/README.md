@@ -37,6 +37,7 @@
 
 ---
 ## 🔄 최근 PR 목록
+- ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/5) - by [@kimsudang](https://github.com/kimsudang)
 - ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/4) - by [@kimsudang](https://github.com/kimsudang)
 - ✍️ [Update: Readme.md & ci test](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/3) - by [@kimsudang](https://github.com/kimsudang)
 - ✍️ [Docs: readme 내용 추가](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/2) - by [@kimsudang](https://github.com/kimsudang)
