@@ -36,3 +36,6 @@
 > 궁금한 점은 [이슈](https://github.com/Team-Ctrl-Z/Hello-Computer/issues)로 남겨주세요!
 
 ---
+## 🔄 최근 PR (TEAM-CTRLZ)
+- ✍️ [Docs: readme 내용 추가](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/2) - by [@kimsudang](https://github.com/kimsudang)
+- ✍️ [Docs: Readme 내용 추가](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/1) - by [@kimsudang](https://github.com/kimsudang)
