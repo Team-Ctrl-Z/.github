@@ -12,10 +12,11 @@
 
 - **목표**: 프론트엔드 면접 대비 / 전반적인 개발 지식 함양
 - **진행 방식**: 각 팀원이 면접 질문을 골라 답변
-- **주요 기술**: JavaScript, TypeScript, React, CS, 알고리즘 등
+- **주요 기술**: JavaScript, TypeScript, React, CS(정보처리기사), 알고리즘 등
 
 ## 🚀 운영 방식
 
+- 매주 일요일 밤 12시까지 차주 진행할 질문 3가지 정리
 - 질문과 그에 대한 답변을 GitHub PR을 통해 공유하고 리뷰 진행
 - 커밋 컨벤션: `Feat:`, `Docs:`, `Update:`, `Fix:`
   > 커밋 컨벤션: [카테고리] 질문 및 주제
@@ -27,6 +28,11 @@
 | <img src="https://avatars.githubusercontent.com/gkdud3579" width="80px" /> | 하영 | [@gkdud3579](https://github.com/gkdud3579) |
 | <img src="https://avatars.githubusercontent.com/kimsudang" width="80px" /> | 수연 | [@kimsudang](https://github.com/kimsudang) |
 
+## ✔️ 활동 계획
+
+2025.04 공통 주제를 정해서 진행
+2025.05 공통 주제 + 개인 주제로 진행
+
 ## 📚 활동 리포지토리
 
 - [프론트엔드 면접 대비](https://github.com/Team-Ctrl-Z/Hello-Computer/tree/main/Front-end)
@@ -36,7 +42,9 @@
 > 궁금한 점은 [이슈](https://github.com/Team-Ctrl-Z/Hello-Computer/issues)로 남겨주세요!
 
 ---
+
 ## 🔄 최근 PR 목록
+
 - ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/5) - by [@kimsudang](https://github.com/kimsudang)
 - ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/4) - by [@kimsudang](https://github.com/kimsudang)
 - ✍️ [Update: Readme.md & ci test](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/3) - by [@kimsudang](https://github.com/kimsudang)
