@@ -37,6 +37,7 @@
 
 ---
 ## 🔄 최근 PR 목록
+- ✍️ [2025-04-26 [React] SSR vs CSR 선택 #6](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/7) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/5) - by [@kimsudang](https://github.com/kimsudang)
 - ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/4) - by [@kimsudang](https://github.com/kimsudang)
 - ✍️ [Update: Readme.md & ci test](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/3) - by [@kimsudang](https://github.com/kimsudang)
