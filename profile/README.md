@@ -16,12 +16,7 @@
 
 ## 🚀 운영 방식
 
-- 매주 일요일 밤 12시까지 차주 진행할 질문 3가지 정리
-- 마지막 주에는 관심있는 아티클 읽고 소개하기
 - 질문과 그에 대한 답변을 GitHub PR을 통해 공유하고 리뷰 진행
-- 질문 1개 당 PR 1개 작성하기
-  > 최초 답변 시 2025-00-00 [카테고리] 질문 및 주제
-- 변동 사항 발생 시 컨벤션 지켜서 커밋
 - 커밋 컨벤션: `Feat:`, `Docs:`, `Update:`, `Fix:`
   > 커밋 컨벤션: [카테고리] 질문 및 주제
 
@@ -32,11 +27,6 @@
 | <img src="https://avatars.githubusercontent.com/gkdud3579" width="80px" /> | 하영 | [@gkdud3579](https://github.com/gkdud3579) |
 | <img src="https://avatars.githubusercontent.com/kimsudang" width="80px" /> | 수연 | [@kimsudang](https://github.com/kimsudang) |
 
-## ✔️ 활동 계획
-
-2025.04 공통 주제를 정해서 진행<br>
-2025.05 공통 주제 + 개인 주제로 진행
-
 ## 📚 활동 리포지토리
 
 - [프론트엔드 면접 대비](https://github.com/Team-Ctrl-Z/Hello-Computer/tree/main/Front-end)
@@ -46,9 +36,7 @@
 > 궁금한 점은 [이슈](https://github.com/Team-Ctrl-Z/Hello-Computer/issues)로 남겨주세요!
 
 ---
-
 ## 🔄 최근 PR 목록
-
 - ✍️ [2025-04-28 [Socekt.io] Socekt.io와 실시간 데이터 스트리밍](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/9) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [2025-04-26 [React] SSR vs CSR 선택 #6](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/7) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/5) - by [@kimsudang](https://github.com/kimsudang)
