@@ -37,6 +37,7 @@
 
 ---
 ## 🔄 최근 PR 목록
+- ✍️ [2025-05-12[Geolocation API] Geolocation API도입 경험(외부 API → 내장 API 전환) #8](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/13) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [2025-05-07[RenderingDelay] 랜더링 지연 개선경험 #8](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/11) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [2025-04-28 [Socekt.io] Socekt.io와 실시간 데이터 스트리밍 #6](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/9) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [2025-04-26 [React] SSR vs CSR 선택 #6](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/7) - by [@gkdud3579](https://github.com/gkdud3579)
@@ -44,4 +45,3 @@
 - ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/4) - by [@kimsudang](https://github.com/kimsudang)
 - ✍️ [Update: Readme.md & ci test](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/3) - by [@kimsudang](https://github.com/kimsudang)
 - ✍️ [Docs: readme 내용 추가](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/2) - by [@kimsudang](https://github.com/kimsudang)
-- ✍️ [Docs: Readme 내용 추가](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/1) - by [@kimsudang](https://github.com/kimsudang)
