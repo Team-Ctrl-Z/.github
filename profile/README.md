@@ -37,6 +37,7 @@
 
 ---
 ## 🔄 최근 PR 목록
+- ✍️ [2025-05-07[RenderingDelay] 랜더링 지연 개선경험 #8](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/11) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [2025-04-28 [Socekt.io] Socekt.io와 실시간 데이터 스트리밍 #6](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/9) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [2025-04-26 [React] SSR vs CSR 선택 #6](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/7) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/5) - by [@kimsudang](https://github.com/kimsudang)
