@@ -37,6 +37,7 @@
 
 ---
 ## 🔄 최근 PR 목록
+- ✍️ [2025-06-08 [Backend] Node.js의 주요 특징 #10](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/16) - by [@kimsudang](https://github.com/kimsudang)
 - ✍️ [2025-05-22[BackEnd] API설계 및 변경 관리 전략 #10](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/15) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [2025-05-13[React] 웹 클라이언트 보안 개선 #10](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/14) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [2025-05-12[Geolocation API] Geolocation API도입 경험(외부 API → 내장 API 전환) #8](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/13) - by [@gkdud3579](https://github.com/gkdud3579)
@@ -44,4 +45,3 @@
 - ✍️ [2025-04-28 [Socekt.io] Socekt.io와 실시간 데이터 스트리밍 #6](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/9) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [2025-04-26 [React] SSR vs CSR 선택 #6](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/7) - by [@gkdud3579](https://github.com/gkdud3579)
 - ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/5) - by [@kimsudang](https://github.com/kimsudang)
-- ✍️ [Update: Readme 수정](https://github.com/Team-Ctrl-Z/Hello-Computer/pull/4) - by [@kimsudang](https://github.com/kimsudang)
